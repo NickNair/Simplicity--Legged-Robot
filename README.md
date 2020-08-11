@@ -1,1 +1,1 @@
-# Simplicity--Legged-Root
+# Simplicity--Legged-Robot
